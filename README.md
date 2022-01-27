@@ -1,4 +1,4 @@
-# Náplň cvičenia
+# Uvod
 - zoznámenie sa s I2C
 - komunikácia s IMU prostredníctvom I2C
 
@@ -41,7 +41,7 @@
 
 Vytvoriť aplikáciu, ktorá bude zobrazovať dáta získané zo senzorov (LPS25HB, HTS) na 7 segmentovom displeji. Zobrazovanými údajmi budú teplota, relatívna vlhkosť vzduchu, tlak vzduchu a nadmorská výška.
 
-### Úlohy
+### Postup
 
 1. Vytvoriť si vlastnú knižnicu pre senzory LPS25HB a HTS221(podobne ako vyzerá knižnica pre IMU (acc + gyro) v demo ukážke). 
 
